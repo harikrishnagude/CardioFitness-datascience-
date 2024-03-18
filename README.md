@@ -1,0 +1,1 @@
+file is uploaded in zip format extract the zip you will get 3 files in there . one is pdf file u will understand . second one is .pynb file which means jupyter notebook file u can utilise that for codes and remaining this CSV extension file for data set.
